@@ -1,0 +1,10 @@
+{
+  "description": "Creates a K-bestie page section within an HTML site to showcase top features or highlights, enhancing user engagement and content organization.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

@@ -38,7 +38,7 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Build site
-        run: pnpm exec vite build --base=/K-Bestie/
+        run: pnpm exec vite build --base=/K-bestie/
 
       - name: Set up Pages
         uses: actions/configure-pages@v5
